@@ -26,7 +26,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   color: var(--color);
   text-transform: capitalize;
-  background-image: url("./img/img1.jpg");
+  background-image: url("./img1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
